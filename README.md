@@ -24,3 +24,7 @@ Class Based View Django
 Urls -> Views -> Views Query the model and handle forms -> Template rendering -> Bootstrap CSS and React 
 
 Django Template
+
+DIRS os.path.join(BASE_DIR) trick <-- understand it 
+
+Views & Template - organise it logically in Rails way
