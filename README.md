@@ -28,3 +28,5 @@ Django Template
 DIRS os.path.join(BASE_DIR) trick <-- understand it 
 
 Views & Template - organise it logically in Rails way
+
+Logic in templates ( if )
